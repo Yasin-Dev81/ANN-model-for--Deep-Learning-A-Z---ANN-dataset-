@@ -1,0 +1,14 @@
+name: ann-practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
